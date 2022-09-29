@@ -1,4 +1,4 @@
-# CodeFirstGirls_FinalProject
+# MySQL CodeFirstGirls_FinalProject
 Home digital Library
 
 This project includes
